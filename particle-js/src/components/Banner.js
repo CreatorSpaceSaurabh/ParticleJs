@@ -23,8 +23,8 @@ const Banner = () => {
         </h1>
         <p className="text-sm text-gray-300 font-semibold">
           {/* Creativity is our Passion & We Transform you Digitally. */}I
-          thrive on transforming concepts into reality. Take a journey through
-          my portfolio and let's embark on a digital adventure together!
+          thrive on transforming concepts into reality. Take a journey and let's
+          embark on a digital adventure together!
         </p>
         <button
           className="w-44 bg-cyan-400 px-6 py-4 text-xl font-bold uppercase rounded-full mt-5"
